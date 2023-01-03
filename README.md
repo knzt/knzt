@@ -2,10 +2,10 @@
 
 
 <h2 align="center">📋&ensp;𝗦𝗢𝗕𝗥𝗘&ensp;📋</h2>
-&nbsp; &nbsp; :heart_decoration: Apaixonada por tecnologia, música e gatinhos <br>
-&nbsp; &nbsp; :desktop_computer: Programadora front-end, atuando como freelancer no desenvolvimento de projetos usando principalmente HTML, CSS, e JavaScript <br>
+&nbsp; &nbsp; :heart_decoration: Apaixonada por texnologia, música e gatinhos <br>
+&nbsp; &nbsp; :desktop_computer: Programadora front-end <br>
 &nbsp; &nbsp; :monocle_face: Estou fazendo a formação JavaScript developer da <a href="https://www.dio.me/">Digital Inovation One</a>, além da formação completa em desenvolvimento fron-end do DevClub<br>
-&nbsp; &nbsp; :open_file_folder: Dá uma olhada no meu <a href="https://portfoliohellensantos.netlify.app">portfólio</a> também
+&nbsp; &nbsp; :open_file_folder: Dá uma olhada no meu <a href="https://portfoliohellensantos.netlify.app">currículo</a> também
 
 <br><br>
 
