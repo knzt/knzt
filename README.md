@@ -101,7 +101,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/cristinahellen/" alt="Linkedin" target="_blank">
+      <a href="https://www.linkedin.com/in/hellensantoss/" alt="Linkedin" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px">
       <sub>
         <b>
