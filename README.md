@@ -2,9 +2,7 @@
 
 
 <h2 align="center">📋&ensp;𝗦𝗢𝗕𝗥𝗘&ensp;📋</h2>
-&nbsp; &nbsp; :heart_decoration: Apaixonada por tecnologia, música e gatinhos <br>
-&nbsp; &nbsp; :desktop_computer: Programadora front-end <br>
-&nbsp; &nbsp; :monocle_face: Estou fazendo a formação React developer da <a href="https://www.dio.me/">Digital Inovation One</a>, além da formação completa em desenvolvimento fron-end do DevClub<br>
+&nbsp; &nbsp; :heart_decoration: Apaixonada por tecnologia, música, gatinhos e livros do Sherlock Holmes <br>
 
 <br><br>
 
