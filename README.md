@@ -1,8 +1,5 @@
-<img align="left" width="50%" alt="about" src="https://data.whicdn.com/images/64342782/original.gif"/>
 
-
-<h2 align="center">📋&ensp;𝗦𝗢𝗕𝗥𝗘&ensp;📋</h2>
-&nbsp; &nbsp; :heart_decoration: Apaixonada por tecnologia, música, gatinhos e livros do Sherlock Holmes <br>
+<p align="center"> :heart_decoration: Apaixonada por tecnologia, música, gatinhos e livros do Sherlock Holmes </p>
 
 <br><br>
 
@@ -67,10 +64,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Markdown icon"/><br>
       <sub>
         <b>
-          <pre>Markdown</pre>
+          <pre>NextJs</pre>
         </b>
       </sub>
     </td>
