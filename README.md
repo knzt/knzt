@@ -1,6 +1,6 @@
 <h2 align="center">🌸 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌸</h2>
 
-<p align="center">Passionate about technology, music, cats, and conspiracy theories</p>
+<p align="center">Passionate about technology, music, cats, and conspiracy theories.</p>
 
 <p align="center">
   🌸 AWS Cloud Practitioner Certified <br>
@@ -13,18 +13,6 @@
 
 <table align="center">
   <tr>
-<!--     <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" width="65px" alt="VSCode"/><br>
-      <sub><b>VSCode</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="65px" alt="HTML"/><br>
-      <sub><b>HTML</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/css3.png" width="65px" alt="CSS"/><br>
-      <sub><b>CSS</b></sub>
-    </td> -->
     <td align="center">
       <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="65px" alt="JavaScript"/><br>
       <sub><b>JavaScript</b></sub>
@@ -55,6 +43,14 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h2 align="center">🎗 𝓜𝓸𝓼𝓽 𝓤𝓼𝓮𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 🎗</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knzt&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true&hide_title=true" alt="Most Used Languages"/>
+</p>
 
 <br>
 
