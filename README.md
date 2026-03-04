@@ -45,29 +45,3 @@
 </table>
 
 <br>
-
-<h2 align="center">🎗 𝓜𝓸𝓼𝓽 𝓤𝓼𝓮𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 🎗</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knzt&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true&hide_title=true" alt="Most Used Languages"/>
-</p>
-
-<br>
-
- <!-- <h2 align="center">💬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💬</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:" alt="E-mail"><img src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" width="50px" alt="Email"/><br>
-      <sub><b>E-mail</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/" alt="LinkedIn" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="50px" alt="LinkedIn"/><br>
-      <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-  </tr>
-</table> -->
