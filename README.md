@@ -4,7 +4,7 @@
 
 <p align="center">
   🌸 AWS Cloud Practitioner Certified <br>
-  🌸 Software Architecture Student
+  🌸 Postgraduate in Software Architecture
 </p>
 
 <br>
