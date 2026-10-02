@@ -23,9 +23,9 @@
 
 I'm a **Software Engineer** focused on **backend development, cloud architecture and distributed systems**.
 
-I enjoy designing systems that are not only functional, but also **maintainable, testable and prepared to evolve**.
+I prefer designing systems that are not only functional, but also **maintainable, testable and prepared to evolve**.
 
-My interests are around **microservices, event-driven architecture, asynchronous processing, cloud-native systems and software architecture**.
+My expertise is around **microservices, event-driven architecture, asynchronous processing, cloud-native systems and software architecture**.
 
 <br>
 
