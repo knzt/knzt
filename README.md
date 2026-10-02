@@ -212,9 +212,7 @@ Unit, integration and E2E testing with automated quality and CI/CD practices.
 
 <div align="center">
 
-| ♢ Music | ♢ Games | ♢ Curiosity | ♢ Conspiracy theories |
-|:---:|:---:|:---:|:---:|
-| always listening | always playing | always learning | always questioning |
+### `✦ passionate about music, true crime podcasts, and tomatoes ✦`
 
 </div>
 
@@ -224,6 +222,6 @@ Unit, integration and E2E testing with automated quality and CI/CD practices.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,30:7C3AED,60:DB2777,100:0D0221&height=100&section=footer" width="100%"/>
 
-### `✦ always learning · always building · always curious ✦`
+
 
 </div>
