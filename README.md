@@ -1,15 +1,21 @@
-<div align="center"><!-- ✦ dreamy cyber-fairy header ✦ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:24104F,55:6D28D9,78:DB2777,100:38BDF8&height=150&section=header&animation=fadeIn" width="100%"/><br><img
+<div align="center"><!-- ✦ dreamy cyber-fairy header ✦ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:24104F,55:6D28D9,78:DB2777,100:38BDF8&height=100&section=header&animation=fadeIn" width="100%"/><br><img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=F0ABFC&center=true&vCenter=true&repeat=true&width=720&height=35&lines=building+backend+systems+%E2%9C%A6;designing+cloud+architectures+%E2%9C%A6;event-driven+%26+distributed+systems+%E2%9C%A6;turning+complexity+into+maintainable+software"
 alt="Typing SVG"
 />
 
-<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,50:8B5CF6,100:38BDF8&height=2&section=header" width="55%"/><br><br>
+<div align="center">
 
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-<img src="https://img.shields.io/badge/AWS%20Certified-0D0221?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</a><img src="https://img.shields.io/badge/Software%20Architecture-0D0221?style=for-the-badge&logoColor=E879F9"/><img src="https://img.shields.io/badge/Backend%20Engineering-0D0221?style=for-the-badge&logoColor=38BDF8"/><br><br>
+  <img src="https://img.shields.io/badge/AWS%20Certified%20✦%20Cloud%20Practictioner-0D0221?style=flat-square&labelColor=0D0221&color=6D28D9&logo=amazonaws&logoColor=FF9900"/>
+</a>
 
-</div><br>
+<br>
+
+<img src="https://img.shields.io/badge/Postgraduate%20✦%20Software%20Architecture-0D0221?style=flat-square&labelColor=0D0221&color=DB2777&logoColor=F0ABFC"/>
+
+</div>
+
+<br>
 
 ## ✦ About me
 
