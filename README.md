@@ -21,16 +21,16 @@ alt="Typing SVG"
 
 I'm a **Software Engineer** focused on **backend development, cloud architecture and distributed systems**.
 
-I prefer designing systems that are not only functional, but also **maintainable, testable and prepared to evolve**.
+I build systems that are not only functional, but also **maintainable, testable and prepared to evolve**.
 
-My expertise is around **microservices, event-driven architecture, asynchronous processing, cloud-native systems and software architecture**.
+My work focuses on **microservices, event-driven architecture, asynchronous processing, cloud-native systems and software architecture**.
 
 <br>
 
 <div align="center">
-
-`backend` &nbsp;·&nbsp; `cloud` &nbsp;·&nbsp; `architecture` &nbsp;·&nbsp; `distributed systems`
-
+  <a href="https://www.linkedin.com/in/hellens">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:cristinahellen46@gmail.com">Email</a>
 </div>
 
 <br>
